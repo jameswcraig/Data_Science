@@ -1,15 +1,18 @@
-# Data Science Portfolio
+# Software Development Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and professional purposes. Presented in the form of R markdown files (published at RPubs).
 
 *Note: Professional projects may contain masked code and/or high level overviews of code where such information is considered proprietary or confidential.*
 
 ## Contents
 * ### Apps
-  * [Find Sellers - Real Estate Seller Lead Generation Using AI](https://findsellers.com)
-  * [Neighmo - Real Estate Intelligence Platform](https://app.neighmo.com)
+  * [RsNLME - R Shiny Apps to support pharmacometric workflows](https://www.certara.com/app/uploads/2021/03/DS_RsNLME_FNL.pdf)
+  * [shinyVPC - Shiny Visual Predictive Checks](https://github.com/jameswcraig/shiny-vpc)
   * [RE Market View - Real Estate Investment Analysis](http://app.remarketview.com/search)
   * [Political - Predicting Ethnicity Using Name and Location (Single Input)](https://jcmlapps.shinyapps.io/teaserEthPred/)
   * [Political -Predicting Ethnicity Using Name and Location (Batch Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
+* ### Pharmacometric R Packages
+  * [tidvypc - Visual Predictive Checks](https://bookdown.org/jameswbcraig/tidyvpc_bookdown/)
+  * [RsNLME - R speaks Non Linear Mixed Effect Modeling](https://www.certara.com/app/uploads/2021/03/DS_RsNLME_FNL.pdf)
 * ### Machine Learning
   * [Interest Rate Time Series Forecast Using LSTM (RNN Neural Network)](http://rpubs.com/jwcb1025/int_rate_lstm)
   * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
