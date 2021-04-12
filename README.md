@@ -1,5 +1,5 @@
 # Software Development Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and professional purposes. Presented in the form of R markdown files (published at RPubs).
+Repository containing portfolio of software development and data science projects completed by myself for academic, self learning, and professional purposes. Presented in the form of R markdown files (published at RPubs), Shiny applications, and weblink brochures.
 
 *Note: Professional projects may contain masked code and/or high level overviews of code where such information is considered proprietary or confidential.*
 
