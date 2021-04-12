@@ -7,7 +7,7 @@ Repository containing portfolio of software development and data science project
 * ### Apps
   * [RsNLME - R Shiny Apps to support pharmacometric workflows](https://www.certara.com/app/uploads/2021/03/DS_RsNLME_FNL.pdf)
   * [shinyVPC - Shiny Visual Predictive Checks](https://github.com/jameswcraig/shiny-vpc)
-  * [RE Market View - Real Estate Investment Analysis](http://app.remarketview.com/search)
+  * [RE Market View - Real Estate Investment Analysis](https://jcmlapps.shinyapps.io/zip_map_table_chart/)
   * [Political - Predicting Ethnicity Using Name and Location (Single Input)](https://jcmlapps.shinyapps.io/teaserEthPred/)
   * [Political -Predicting Ethnicity Using Name and Location (Batch Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
 * ### Pharmacometric R Packages
